@@ -3,5 +3,5 @@
 - Builder
 - Factory
 - Singleton
-- 
+- DTO
 
