@@ -50,4 +50,16 @@ public class Pessoa {
             return pessoa;
         }
     }
+
+    public String getNome() {
+        return nome;
+    }
+
+    public String getSobremone() {
+        return sobremone;
+    }
+
+    public String getEmail() {
+        return email;
+    }
 }

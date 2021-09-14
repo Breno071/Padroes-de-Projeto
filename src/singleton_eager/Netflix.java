@@ -1,4 +1,4 @@
-package singleton;
+package singleton_eager;
 
 import java.util.ArrayList;
 import java.util.List;

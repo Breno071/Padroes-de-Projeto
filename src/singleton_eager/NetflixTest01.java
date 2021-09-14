@@ -1,4 +1,4 @@
-package singleton;
+package singleton_eager;
 
 public class NetflixTest01 {
     public static void main(String[] args) {
