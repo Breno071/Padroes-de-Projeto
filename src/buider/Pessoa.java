@@ -23,7 +23,7 @@ public class Pessoa {
         public PessoaBuilder() {
         }
 
-        public static PessoaBuilder aPessoa() {
+        public static PessoaBuilder newPessoa() {
             return new PessoaBuilder();
         }
 
